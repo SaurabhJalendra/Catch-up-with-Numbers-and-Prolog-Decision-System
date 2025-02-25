@@ -1,0 +1,5 @@
+# Prolog Interpreter
+swi-prolog >= 8.0.0
+
+# No additional libraries required for this project
+# This project uses standard Prolog functionality 
